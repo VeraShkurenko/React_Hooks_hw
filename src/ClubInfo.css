@@ -1,0 +1,13 @@
+.card {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+  width: 300px;
+  text-align: center;
+}
+
+.club-logo {
+  width: 80px;
+  margin-bottom: 10px;
+}

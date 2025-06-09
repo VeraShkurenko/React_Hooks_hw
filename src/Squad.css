@@ -1,0 +1,8 @@
+.squad {
+  width: 300px;
+}
+
+.squad ul {
+  list-style-type: '⚽ ';
+  padding-left: 20px;
+}
